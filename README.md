@@ -13,7 +13,7 @@ This project is designed for developers, students, or teams who want to improve 
 # Setup Instructions
 
 # 1. Clone the Repository
-git clone https://github.com/your-username/pdb-debugging-training.git
+git clone https://github.com/BalmerDemos/pdb-debugging-training
 cd pdb-debugging-training
 
 
